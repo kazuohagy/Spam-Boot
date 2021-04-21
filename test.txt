@@ -1,0 +1,73 @@
+Big Bang – Teoria da origem do universo
+Tina Andreolla
+Dra. em Física – Área Radioastronomia; Professora Adjunta da UTFPR – Campus Pato Branco,
+pesquisadora do projeto Astronomia da SEB/MEC
+Como se chegou à idéia do Big Bang
+No início do século XX, até por volta de 1908, havia um consenso de que o universo era estático
+e eterno, não se cogitava o início do universo a partir do Big Bang. Em 1916, Albert Einstein
+publicou a teoria da relatividade, a qual dizia que o universo estaria se expandindo. A idéia de
+universo ganhou novos rumos. Cientistas, com a ajuda de telescópios, iniciaram pesquisas em
+busca da verificação desta teoria.
+Até 1923, os cientistas acreditavam que o universo se restringia à Via Láctea, sem nada
+observável além de suas fronteiras. Entretanto, observações sistemática de uma estrela cefeída
+(Fig. 1) variável chamada V1 na galáxia de Andrômeda ajudaram o astrônomo Edwin Hubble a
+mostrar que aquela estrela se encontrava fora dos domínios de nossa galáxia, assim expandindo
+as dimensões de nosso universo, tornando-o um lugar bem maior.
+Fig. 1 - Estrela cefeida que ajudou a desvendar um universo para além da Via Láctea. Fonte: NASA, ESA e Equipe da
+Herança Hubble
+Pouco depois, em 1929, Hubble mostrou que as galáxias se afastam uma das outras com
+velocidades proporcionais a sua distância e, medindo suas distâncias verificou que, quanto mais
+distante, maior era sua velocidade de afastamento. Verificou, também, que a luz proveniente de
+galáxias distantes sofre um desvio para o vermelho (redshift). Esse tipo de desvio acontece
+quando o observador e a fonte luminosa estão se afastando e, a velocidade com que a galáxia
+está se afastando da Terra pode ser calculada pelo desvio observado. Tal descoberta constitui a
+primeira evidência para a expansão do universo.
+Com o desenvolvimento da radioastronomia, a partir da década de 1930, descobriram-se entre
+outras coisas, objetos astronômicos que estão a bilhões de anos luz de distância da Via Láctea.
+Essas informações levaram os pesquisadores a questionar que, se o universo se expande sem
+parar, houve um momento em que sua massa estava concentrada em um único ponto. O termo
+“Big Bang”, a Grande Explosão, foi sugerido (em 1950) por Fred Hoyle, satirizando o evento de
+início do universo, pois vários cientistas fizeram diversas pesquisas com a ajuda de telescópios e
+deduziram que o universo estava realmente se expandindo de modo ordeiro. Fazendo o caminho
+inverso para explicitar a idéia do Big Bang, imaginando que, se ao invés de expandir ele fosse
+contraído, todo o universo iria convergir até chegar a um ponto de origem. Lemaître denominou
+este ponto de “átomo primordial” e propôs que esse se partiu em inúmeros pedaços, que foram
+se dividindo cada vez mais, até formar os átomos presentes no universo, criando não somente a
+matéria e a radiação, mas também o que conhecemos como espaço e tempo.
+Big Bang
+A teoria do surgimento do universo mais aceita atualmente é que ele teve início com o Big Bang
+quente há aproximadamente 13,7 bilhões de anos (tempo previsto pela Lei de Hubble, que
+encontra interpretação na Relatividade Geral) e tem se expandido e esfriado ao longo do tempo,
+formando as estruturas que conhecemos hoje. As figuras 2 e 3 mostram um esquema de como
+essas estruturas foram evoluindo. O primeiro microsegundo foi o período de formação, quando a
+matéria dominou a antimatéria (ver artigo: “Cientistas descobrem assimetria entre matéria e
+antimatéria” http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=assimetria-entremateria-antimateria) que serviram de “sementes” para a formação de galáxias e outras
+estruturas, a matéria escura e a energia escura (ver artigo: “Existe Mesmo Uma Energia
+Escura?” Revista Scientífic American Brasil, Ed. Especial nº 41).
+Simulações de computadores auxiliam a reproduzir como o universo evoluiu (ver vídeo: “Origen
+del Universo”. http://www.youtube.com/watch?v=R3-OcZF8-Fc). Nos primeiros instantes após o
+Big Bang, a temperatura era extremamente elevada, da ordem de 1032 Kelvin (K). Os avanços
+científicos mostram que as primeiras estrelas e galáxias surgiram quando o universo tinha cerca
+de 100 milhões de anos. As regiões mais densas se expandiam mais lentamente e começaram a
+colapsar. Como tinham cerca de um milhão de massas solares cada uma foram as primeiras
+estruturas do cosmos ligadas gravitacionalmente e, eram formadas de matéria escura incapaz de
+emitir ou absorver luz.
+Fig. 2 - Cronologia da evolução das estruturas a partir do Big Bang. Fonte: TURNER, M. S. A Origem do Universo.
+Scientific American Brasil. Edição especial, nº 41, 2010
+A radiação cósmica de fundo em microondas descoberta por Arno Penzias e Robert Wilson em
+1964 (Turner, 2010) vislumbra o universo na tenra idade de 380 mil anos no período em que os
+átomos se formaram. Antes disso o universo era uma mistura de núcleos atômicos, elétrons e
+fótons que ao esfriar-se a 3.000 K os núcleos e elétrons se combinaram para formar átomos
+.
+Fig. 3 - Evolução das estruturas do universo a partir do surgimento do átomo. TURNER, M. S. A Origem do Universo.
+Scientific American Brasil. Edição especial, nº 41, 2010.
+Com o passar do tempo estrelas e galáxias foram se formando e, hoje em dia a temperatura do
+universo caiu para 2,7 K, que é a temperatura característica da radiação cósmica de fundo.
+Agora, assista na íntegra o episódio „Big Bang‟, da série ABC da Astronomia da TV Escola e
+deixe seus comentários!
+Referências
+CUTNELL, J. D., JOHNSON, K. W. Física I. vol. 3, 6 ed., Rio de Janeiro: LTC, 2006
+HALLIDAY, RESNICK, WALKER. Fundamentos de Física. vol. 4, 8 ed., Rio de Janeiro: LTC, 2009
+KANTOR, C. A., et.al. Quanta Física – Física 2º ano Ensino Médio. 1 ed., São Paulo: PD, 2010
+OLIVEIRA FILHO, K. S. Astronomia & Astrofísica, 2 ed., São Paulo: Livraria da Física, 2004
+TURNER, M. S. A Origem do Universo. Scientific American. Edição especial, nº 41, 2010
